@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tragic21
-- 👀 I’m interested in golf
-- 🌱 I’m currently learning calculus/c++/python/java
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m ... @tragic21
+- 👀 I’m interested in ... golf
+- 🌱 I’m currently learning ... calculus/c++/python/java
+- 💞️ I’m looking to collaborate on ... ...
 - 📫 How to reach me ... on here
 
 <!---
